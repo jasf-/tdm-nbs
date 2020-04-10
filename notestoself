@@ -1,3 +1,5 @@
+2020_04_10 Not the most recent version.
+
 Stuck on the data Q - how to scope a dset small enough to fit Github upload limits (10mb)
 postBuild not currently working...or is it?  I can see the dataset in Binder, not sure how to bring it in though.  Hint? https://www.marsja.se/how-to-read-and-write-json-files-using-python-and-pandas/
 
