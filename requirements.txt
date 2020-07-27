@@ -6,3 +6,4 @@ pandas
 pyLDAvis
 matplotlib
 jupyter-notebookparams
+progressbar
