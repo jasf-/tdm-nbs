@@ -4,7 +4,7 @@
 
 python -m nltk.downloader stopwords wordnet
 
-url=https://gist.githubusercontent.com/lawlesst/9ccb340f15c1aab6846983738cffb4cc/raw/tdm_client.py
+url=https://raw.githubusercontent.com/ithaka/tdm-notebooks/41cfb568e4e4ea57920141d602b6a3d46ed88b0a/tdm_client.py
 
 wget $url
 
