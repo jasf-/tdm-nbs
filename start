@@ -1,11 +1,15 @@
 #!/bin/bash
 
-/opt/conda/bin/python3
+python3 -m nltk.downloader stopwords wordnet
 
-python -m nltk.downloader stopwords wordnet
+url=https://raw.githubusercontent.com/ithaka/tdm-notebooks/master/src/tdm_client.py
 
-url=https://raw.githubusercontent.com/ithaka/tdm-notebooks/41cfb568e4e4ea57920141d602b6a3d46ed88b0a/tdm_client.py
-
+rm -rf tdm_client.py
 wget $url
+
+cd /tmp
+cp ~/tdm_client.py .
+python3 tdm_client.py install
+cd -
 
 exec "$@"
