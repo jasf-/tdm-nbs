@@ -1,3 +1,4 @@
+constellate-client
 requests
 pandas
 gensim==3.8.3

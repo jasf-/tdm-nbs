@@ -2,14 +2,4 @@
 
 python3 -m nltk.downloader stopwords wordnet
 
-url=https://raw.githubusercontent.com/ithaka/tdm-notebooks/master/src/tdm_client.py
-
-rm -rf tdm_client.py
-wget $url
-
-cd /tmp
-cp ~/tdm_client.py .
-python3 tdm_client.py install
-cd -
-
 exec "$@"
