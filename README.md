@@ -4,7 +4,7 @@ Materials for Python & Text Analysis for Absolute Beginners workshop. Sample wor
 
 Running order for workshop:
 
-1. About Constellate
+1. About Constellate <a href=https://github.com/jasf-/tdm-nbs/blob/master/1.AboutConstellate.ipynb>
 2. Creating a dataset in Constellate
 3. Getting started with Jupyter Notebooks
 4. Getting started with Python
