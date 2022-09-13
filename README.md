@@ -1,8 +1,8 @@
 # tdm-nbs
 
-Materials for Python & Text Analysis for Absolute Beginners workshop. Sample workshop description here:  https://northeastern.libcal.com/event/8553317.
+Materials for Python & Text Analysis for Absolute Beginners workshop. [Sample workshop description here]  (https://northeastern.libcal.com/event/8553317).
 
-Running order for workshop:
+<h3>To replicate our workshop, execute the notebooks in the following order:</h3>
 
 1. About Constellate https://github.com/jasf-/tdm-nbs/blob/master/1.AboutConstellate.ipynb
 2. Creating a dataset in Constellate https://github.com/jasf-/tdm-nbs/blob/master/2.CreatingaDatasetinConstellate.ipynb
