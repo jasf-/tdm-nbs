@@ -10,6 +10,8 @@ Materials for Python & Text Analysis for Absolute Beginners workshop. [Sample wo
 4. [Getting started with Python](https://github.com/ResearchDataServicesNU/Python-TextAnalysis/blob/master/4.GettingStartedwithPython.ipynb)
 5. [Significant terms](https://github.com/ResearchDataServicesNU/Python-TextAnalysis/blob/master/5.SignificantTerms.ipynb)
 
+
+<b>Recommendation:</b> [![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/notebook/own/?repo=https://github.com/jasf-/tdm-nbs) to load the notebooks. Requires Northeastern affiliation and JSTOR account.
 <b>Recommendation:</b> Use [Constellate's environment](https://constellate.org/notebook/own/) to load the notebooks. Requires Northeastern affiliation and JSTOR account.
 
 Alternatively, this personal Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jasf-/tdm-nbs/master) can be used to launch notebooks. Please note that not all functions will work outside the Constellate environment.
