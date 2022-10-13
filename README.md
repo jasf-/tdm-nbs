@@ -12,6 +12,6 @@ Materials for Python & Text Analysis for Absolute Beginners workshop. [Sample wo
 
 
 <b>Recommendation:</b> [![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/notebook/own/?repo=https://github.com/jasf-/tdm-nbs) to load the notebooks. Requires Northeastern affiliation and JSTOR account.
-<b>Recommendation:</b> Use [Constellate's environment](https://constellate.org/notebook/own/) to load the notebooks. Requires Northeastern affiliation and JSTOR account.
+
 
 Alternatively, this personal Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jasf-/tdm-nbs/master) can be used to launch notebooks. Please note that not all functions will work outside the Constellate environment.
